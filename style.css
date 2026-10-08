@@ -1,3 +1,15 @@
+.banner {
+    background: url(https://img.magnific.com/premium-photo/vector-abstract-blue-background-with-musical-notes_575980-25387.jpg?semt=ais_hybrid);
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 600px;
+    min-height: 417px;
+}
+
+.banner-text {
+    padding: 100px 0 0;
+}
 .logo {
     margin-left: 30px;
     font-size: 30px;
