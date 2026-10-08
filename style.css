@@ -36,3 +36,16 @@
     margin-right: 30px;
     color: #D8D3D3;
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    color: #D8D3D3;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #0f3460;
+}
+.logo-footer {
+    font-size: 24px;
+    margin-left: 30%;
+}
